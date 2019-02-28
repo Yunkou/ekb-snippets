@@ -1,0 +1,27 @@
+{
+  "name": "ekb-snippets",
+  "description": "ekuaibao F2E code snippets for VS Code",
+  "version": "0.0.1",
+  "displayName": "Ekb Snippets",
+  "publisher": "Yunkou",
+  "icon": "images/favicon.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yunkou/ekb-snippets"
+  },
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "less",
+        "path": "./snippets/less.json"
+      }
+    ]
+  }
+}

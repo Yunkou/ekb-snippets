@@ -1,0 +1,117 @@
+{
+  "color-black": {
+    "prefix": "cb",
+    "body": "@color-black-${0}",
+    "description": "color-black"
+  },
+  "color-white": {
+    "prefix": "cw",
+    "body": "@color-white-${0}",
+    "description": "color-white"
+  },
+  "color-brand": {
+    "prefix": "cb",
+    "body": "@color-brand-${0}",
+    "description": "color-brand"
+  },
+  "color-error": {
+    "prefix": "ce",
+    "body": "@color-error-${0}",
+    "description": "color-error"
+  },
+  "color-warning": {
+    "prefix": "cw",
+    "body": "@color-warning-${0}",
+    "description": "color-warning"
+  },
+  "color-inform": {
+    "prefix": "ci",
+    "body": "@color-inform-${0}",
+    "description": "color-inform"
+  },
+  "color-success": {
+    "prefix": "cs",
+    "body": "@color-success-${0}",
+    "description": "color-success"
+  },
+  "color-line": {
+    "prefix": "cl",
+    "body": "@color-line-${0}",
+    "description": "color-line"
+  },
+  "font-size": {
+    "prefix": "fz",
+    "body": ".font-size-${0}",
+    "description": "font-size"
+  },
+  "font-weight": {
+    "prefix": "fw",
+    "body": ".font-weight-${0}",
+    "description": "font-weight"
+  },
+  "radius": {
+    "prefix": "r",
+    "body": "@radius-${0}",
+    "description": "radius"
+  },
+  "shadow-black": {
+    "prefix": "sb",
+    "body": ".shadow-black-${0}",
+    "description": "shadow-black"
+  },
+  "shadow-brand": {
+    "prefix": "sb",
+    "body": ".shadow-brand-${0}",
+    "description": "shadow-brand"
+  },
+  "shadow-error": {
+    "prefix": "se",
+    "body": ".shadow-error-${0}",
+    "description": "shadow-error"
+  },
+  "shadow-warning": {
+    "prefix": "sw",
+    "body": ".shadow-warning-${0}",
+    "description": "shadow-warning"
+  },
+  "shadow-inform": {
+    "prefix": "si",
+    "body": ".shadow-inform-${0}",
+    "description": "shadow-inform"
+  },
+  "shadow-success": {
+    "prefix": "ss",
+    "body": ".shadow-success-${0}",
+    "description": "shadow-success"
+  },
+  "icon-size": {
+    "prefix": "is",
+    "body": ".icon-size-${0}",
+    "description": "icon-size"
+  },
+  "space": {
+    "prefix": "s",
+    "body": "@space-${0}",
+    "description": "space"
+  },
+  "mask black": {
+    "prefix": "mb",
+    "body": ".mask-black",
+    "description": "mask black"
+  },
+  "mask white": {
+    "prefix": "mw",
+    "body": ".mask-white",
+    "description": "mask white"
+  },
+  "line style solid": {
+    "prefix": "ls",
+    "body": "@line-solid",
+    "description": "line style solid"
+  },
+  "line style dashed": {
+    "prefix": "ld",
+    "body": "@line-dashed",
+    "description": "line style dashed"
+  }
+}
